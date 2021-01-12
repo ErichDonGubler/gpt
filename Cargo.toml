@@ -16,4 +16,4 @@ uuid = { version = "~0.8", features = ["v4"] }
 
 [dev-dependencies]
 simplelog = "~0.8"
-tempfile = "~3.0"
+tempfile = "~3.2"
